@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - Wall
+  - Door 3
+  - Door 7
+  - Hub Door
   layers:
   - Default
   - TransparentFX
