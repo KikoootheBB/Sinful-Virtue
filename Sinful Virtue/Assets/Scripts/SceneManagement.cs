@@ -4,7 +4,7 @@ using UnityEngine.SceneManagement;
 
 public class SceneManagement : MonoBehaviour
 {
-     void OnTriggerEnter2D(Collider2D other)
+    void OnTriggerEnter2D(Collider2D other)
     {
         if (tag == "Door 3")
         {
@@ -12,7 +12,7 @@ public class SceneManagement : MonoBehaviour
         }
         if (tag == "Door 7")
         {
-            SceneManager.LoadScene("Sloth"); 
+            SceneManager.LoadScene("Sloth");
         }
         if (tag == "Hub Door")
         {
