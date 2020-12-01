@@ -13,8 +13,11 @@ EditorBuildSettings:
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
     path: Assets/Scenes/Wrath.unity
-    guid: 226ba5a5fa1b23645883b7cf9bad9f59
+    guid: 178b24c3ca3c99c46b62dcf94eb35f30
   - enabled: 1
     path: Assets/Scenes/Sloth.unity
     guid: 140ac819222a5fc42a3c2f197318a63e
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   m_configObjects: {}
