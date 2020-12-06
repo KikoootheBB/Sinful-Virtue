@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Video;
-using UnityEngine.SceneManagement;
 
 public class PlayerControl : MonoBehaviour
 {
@@ -37,18 +36,5 @@ public class PlayerControl : MonoBehaviour
     void Move()
     {
         rb.velocity = new Vector2(moveDirection.x * moveSpeed, moveDirection.y * moveSpeed);
-    }
-
-    //"Apanhar" as virtudes ou os pecados
-    private void OnTriggerEnter2D(Collider2D other)
-    {
-        if (other.gameObject.CompareTag("Virtue"))
-        {
-            other.gameObject.SetActive(false);
-        }
-        if (other.gameObject.CompareTag("Sin"))
-        {
-            SceneManager.LoadScene("Hub");
-        }
     }
 }

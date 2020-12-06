@@ -17353,7 +17353,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 886a5baf4a552e64cbba0f2e9c3cf828, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpotInNextRoom: {x: 90, y: 25, z: 0}
+  SpotInNextRoom: {x: 48, y: 15, z: 0}
 --- !u!61 &1688825415
 BoxCollider2D:
   m_ObjectHideFlags: 0

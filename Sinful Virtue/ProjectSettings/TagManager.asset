@@ -10,6 +10,7 @@ TagManager:
   - Hub Door
   - Virtue
   - Sin
+  - Info
   layers:
   - Default
   - TransparentFX
