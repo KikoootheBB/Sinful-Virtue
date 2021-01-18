@@ -17,30 +17,4 @@ public class Triggers : MonoBehaviour
             SceneManager.LoadScene("Hub");
         }
     }
-    //private void OnTriggerStay2D(Collider2D other)
-    //{
-    //    if (other.gameObject.CompareTag("Info"))
-    //    {
-    //        for (int i = 0; i < other.transform.childCount; i++)
-    //        {
-    //            var child = other.transform.GetChild(i).gameObject;
-    //            if (child != null)
-    //                child.SetActive(true);
-    //        }
-    //    }
-    //}
-    //private void OnTriggerExit2D(Collider2D other)
-    //{
-    //    if (other.gameObject.CompareTag("Info"))
-    //    {
-    //        for (int i = 0; i < other.transform.childCount; i++)
-    //        {
-    //            var child = other.transform.GetChild(i).gameObject;
-    //            if (child != null)
-    //                child.SetActive(false);
-    //        }
-    //    }
-    //}
-
-
-}
+  }
