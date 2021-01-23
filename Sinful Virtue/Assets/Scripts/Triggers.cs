@@ -12,9 +12,9 @@ public class Triggers : MonoBehaviour
         {
             other.gameObject.SetActive(false);
         }
-        if (other.gameObject.CompareTag("Sin"))
-        {
-            SceneManager.LoadScene("Hub");
-        }
+        //if (other.gameObject.CompareTag("Sloth") || other.gameObject.CompareTag("Wrath"))
+        //{
+        //    SceneManager.LoadScene("Hub");
+        //}
     }
   }

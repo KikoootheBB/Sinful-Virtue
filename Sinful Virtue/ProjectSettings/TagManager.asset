@@ -9,8 +9,10 @@ TagManager:
   - Door 7
   - Hub Door
   - Virtue
-  - Sin
   - Info
+  - Sloth
+  - Light
+  - Wrath
   layers:
   - Default
   - TransparentFX
