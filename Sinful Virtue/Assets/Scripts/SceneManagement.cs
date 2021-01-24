@@ -8,17 +8,17 @@ public class SceneManagement : MonoBehaviour
     void OnTriggerEnter2D(Collider2D other)
     {
         //Dependendo da porta é carregado o mapa correspondente 
-        if (tag == "Door 3")
+        if (other.gameObject.CompareTag("Player")&&tag == "Door 3")
         {
             SceneManager.LoadScene("Wrath");
             OnDoorEntered();
         }
-        if (tag == "Door 7")
+        if (other.gameObject.CompareTag("Player") && tag == "Door 7")
         {
             SceneManager.LoadScene("Sloth");
             OnDoorEntered();
         }
-        if (tag == "Hub Door")
+        if (other.gameObject.CompareTag("Player") && tag == "Hub Door")
         {
             SceneManager.LoadScene("Hub");
             OnDoorEntered();
