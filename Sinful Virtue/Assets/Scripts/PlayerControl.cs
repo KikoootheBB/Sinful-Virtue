@@ -18,13 +18,8 @@ public class PlayerControl : MonoBehaviour
     void Update()
     {
         ProcessInputs();
-    }
-
-    void FixedUpdate()
-    {
         Move();
     }
-
      //Recepção dos inputs e criação do vetor de direção
     void ProcessInputs()
     {

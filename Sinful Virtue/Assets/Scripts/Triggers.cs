@@ -10,11 +10,14 @@ public class Triggers : MonoBehaviour
     {
         if (other.gameObject.CompareTag("Virtue"))
         {
+            GameObject lightArea = GameObject.FindGameObjectWithTag("Light");
+            CircleCollider2D lightcol = lightArea.GetComponent<CircleCollider2D>();
             other.gameObject.SetActive(false);
+            lightcol.radius += 1.5f;
         }
-        //if (other.gameObject.CompareTag("Sloth") || other.gameObject.CompareTag("Wrath"))
-        //{
-        //    SceneManager.LoadScene("Hub");
-        //}
+        if (other.gameObject.CompareTag("Sloth") || other.gameObject.CompareTag("Wrath"))
+        {
+            SceneManager.LoadScene("Hub");
+        }
     }
   }

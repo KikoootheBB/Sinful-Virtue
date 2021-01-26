@@ -1,5 +1,4 @@
 ﻿using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
 
@@ -25,15 +24,17 @@ public class AIMovement : MonoBehaviour
             GotoNextPoint();
         }
     }
+    //Timer para o estado ativo da wrath
     IEnumerator Timer()
     {
         yield return new WaitForSeconds(5);
     }
-    //Escoler um ponto aleatório da lista de pontos
+    //Ativação do estado "ativo" dos Sins
     void OnTriggerEnter2D(Collider2D other)
     {
         if (other.gameObject.CompareTag("Light") && gameObject.CompareTag("Sloth"))
         {
+            Debug.Log("active");
             ActiveSloth();
         }
         if (other.gameObject.CompareTag("Light") && gameObject.CompareTag("Wrath"))
@@ -42,6 +43,7 @@ public class AIMovement : MonoBehaviour
             ActiveWrath();
         }
     }
+    //Escoler um ponto aleatório da lista de pontos
     void GotoNextPoint()
     {
         if (movePoints.Length == 0)

@@ -13,6 +13,7 @@ TagManager:
   - Sloth
   - Light
   - Wrath
+  - Sin
   layers:
   - Default
   - TransparentFX
@@ -25,8 +26,8 @@ TagManager:
   - Labirinth
   - Player
   - Sins
-  - 
-  - 
+  - Virtues
+  - Light
   - 
   - 
   - 
