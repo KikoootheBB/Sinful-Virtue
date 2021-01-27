@@ -1,0 +1,229 @@
+<REAPER_PROJECT 0.1 "6.15/x64" 1611682729
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 1
+  ENVATTACH 1
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 600
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 462
+  ZOOM 12.85911208940568 0 0
+  VZOOMEX 6 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "" ""
+  <RECORD_CFG
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE "C:\Users\nuno_\Desktop\segundo ano universidade\2020 and 21\Game Design\Group Project\Nuno\Final Audio\MainMenu.wav"
+  RENDER_FMT 0 2 44100
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 0
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxgAAA==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 25.5 48.5
+  SELECTION2 25.5 48.5
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 -1 -1 -1 0 0 0 -1 -1 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 3.11181678445801 0 -1 -1 1
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {FC75F36D-12AC-4998-9456-E0BB81AF7D50}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {C0D0CB5F-17C3-4A25-B39F-E55543D43E22}
+    ACT 1 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {91A25140-B27E-4810-9BFB-AF876DB4FD05}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.45583759840005 0 -1 -1 1
+    MUTESOLO 0 2 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {91A25140-B27E-4810-9BFB-AF876DB4FD05}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 21
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9181B06D-8F98-4408-A1FB-9AE3662FDDD1}
+      IID 13
+      NAME 428542__nixeno__nixenofx-horror-effect-crash-reverse-with-violin-chamber.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {24C06A13-F9C4-43B9-9B08-F0191142816B}
+      <SOURCE MP3
+        FILE "C:\Users\nuno_\Desktop\segundo ano universidade\2020 and 21\Game Design\Group Project\Nuno\Sounds\428542__nixeno__nixenofx-horror-effect-crash-reverse-with-violin-chamber.mp3" 1
+      >
+    >
+  >
+  <TRACK {1DC60075-BB6A-4EE8-86D8-101E77CB1E9F}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 2 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {1DC60075-BB6A-4EE8-86D8-101E77CB1E9F}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 16
+      SNAPOFFS 0
+      LENGTH 147.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FD598B4C-7555-4198-9FA3-D2C99D0932B8}
+      IID 18
+      NAME "[MP3DOWNLOAD.TO] [No Copyright Music]  Broken Piano _ Horror Music _ Royalty Free Music-320k.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 8.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {81731A02-874B-4C49-B15B-777FFEDE9863}
+      <SOURCE MP3
+        FILE "C:\Users\nuno_\Desktop\segundo ano universidade\2020 and 21\Game Design\Group Project\Nuno\Sounds\[MP3DOWNLOAD.TO] [No Copyright Music]  Broken Piano _ Horror Music _ Royalty Free Music-320k.mp3" 1
+      >
+    >
+  >
+  <TRACK {0ECCC36A-C64A-4451-9485-53C91785C404}
+    NAME "[MP3DOWNLOAD.TO] Horror_Thriller cinematic piano background music-320k"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 3.98107170553497 0 -1 -1 1
+    MUTESOLO 0 2 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 1
+    REC 0 0 1 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 -1 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {0ECCC36A-C64A-4451-9485-53C91785C404}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 162
+      SNAPOFFS 0
+      LENGTH 304
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {8F1B482E-370C-44B9-8A69-7529F0E3B267}
+      IID 19
+      NAME "[MP3DOWNLOAD.TO] Horror_Thriller cinematic piano background music-320k.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C3E191E4-18D2-45D7-9E89-43A384769B09}
+      <SOURCE MP3
+        FILE "C:\Users\nuno_\Desktop\segundo ano universidade\2020 and 21\Game Design\Group Project\Nuno\Sounds\[MP3DOWNLOAD.TO] Horror_Thriller cinematic piano background music-320k.mp3" 1
+      >
+    >
+  >
+>

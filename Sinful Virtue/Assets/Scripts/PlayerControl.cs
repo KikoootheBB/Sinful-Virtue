@@ -1,15 +1,9 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-using UnityEngine.Video;
-
+﻿using UnityEngine;
 public class PlayerControl : MonoBehaviour
 {
     public float moveSpeed;
     public Rigidbody2D rb;
     private Vector2 moveDirection;
-
-
     void Start()
     //Atribui a ao player a posição inicial definida no GameManager (Fonte: https://answers.unity.com/questions/1594415/changing-character-position-when-changing-scenes.html) 
     {
