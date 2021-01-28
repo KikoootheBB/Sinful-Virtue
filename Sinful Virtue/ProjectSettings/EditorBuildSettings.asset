@@ -8,19 +8,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Main Menu.unity
     guid: abf83760e09adae4ca3231759cc72905
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/Hub.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Scenes/Wrath.unity
-    guid: 178b24c3ca3c99c46b62dcf94eb35f30
-  - enabled: 1
     path: Assets/Scenes/Sloth.unity
     guid: 140ac819222a5fc42a3c2f197318a63e
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Wrath.unity
+    guid: 178b24c3ca3c99c46b62dcf94eb35f30
   m_configObjects: {}

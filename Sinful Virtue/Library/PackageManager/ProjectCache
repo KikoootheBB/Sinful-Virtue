@@ -1,20 +1,20 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: C:/Users/gamma/Documents/GitHub/Sinful-Virtue/Sinful Virtue/Packages/manifest.json
+    m_FilePath: C:/Users/Suu/Documents/GitHub/Sinful-Virtue/Sinful Virtue/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637473932570753161
-    m_Hash: 1025436570
+      ticks: 637474261685464870
+    m_Hash: 4263026308
   m_LockFileStatus:
-    m_FilePath: C:/Users/gamma/Documents/GitHub/Sinful-Virtue/Sinful Virtue/Packages/packages-lock.json
+    m_FilePath: C:/Users/Suu/Documents/GitHub/Sinful-Virtue/Sinful Virtue/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637473932572697962
-    m_Hash: 1886427174
+      ticks: 637474261989861714
+    m_Hash: 3466602731
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
@@ -25,7 +25,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 4.2.6
       source: 1
-      resolvedPath: C:\Users\gamma\Documents\GitHub\Sinful-Virtue\Sinful Virtue\Library\PackageCache\com.unity.2d.animation@4.2.6
+      resolvedPath: C:\Users\Suu\Documents\GitHub\Sinful-Virtue\Sinful Virtue\Library\PackageCache\com.unity.2d.animation@4.2.6
       assetPath: Packages/com.unity.2d.animation
       name: com.unity.2d.animation
       displayName: 2D Animation
@@ -41,62 +41,10 @@ m_PackageAssets:
       errors: []
       versions:
         all:
-        - 1.0.15-preview.1
-        - 1.0.15-preview.2
-        - 1.0.15-preview.3
-        - 1.0.15-preview.4
-        - 1.0.15-preview.5
-        - 1.0.16-preview
-        - 1.0.16-preview.1
-        - 1.0.16-preview.2
-        - 2.0.0-preview.1
-        - 2.0.0-preview.2
-        - 2.0.0-preview.3
-        - 2.1.0-preview.1
-        - 2.1.0-preview.2
-        - 2.1.0-preview.4
-        - 2.1.0-preview.5
-        - 2.1.0-preview.7
-        - 2.2.0-preview.1
-        - 2.2.0-preview.4
-        - 2.2.0-preview.5
-        - 2.2.1-preview.1
-        - 2.2.1-preview.2
-        - 3.0.2
-        - 3.0.3
-        - 3.0.4
-        - 3.0.5
-        - 3.0.6
-        - 3.0.8
-        - 3.1.0
-        - 3.1.1
-        - 3.2.1
-        - 3.2.2
-        - 3.2.3
-        - 3.2.4
-        - 3.2.5
-        - 3.2.6
-        - 4.0.0
-        - 4.0.1
-        - 4.1.0
-        - 4.1.1
-        - 4.2.1
-        - 4.2.2
-        - 4.2.3
-        - 4.2.4
-        - 4.2.5
         - 4.2.6
-        - 4.2.8
-        - 5.0.0
-        - 5.0.1
-        - 5.0.2
-        - 5.0.3
-        - 6.0.0-pre.1
-        - 6.0.0-pre.2
         compatible:
         - 4.2.6
-        - 4.2.8
-        verified: 4.2.8
+        verified: 4.2.6
       dependencies:
       - name: com.unity.2d.common
         version: 3.0.1
@@ -142,7 +90,7 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637366431100000000
+      datePublishedTicks: 0
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -155,7 +103,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 3.0.2
       source: 1
-      resolvedPath: C:\Users\gamma\Documents\GitHub\Sinful-Virtue\Sinful Virtue\Library\PackageCache\com.unity.2d.pixel-perfect@3.0.2
+      resolvedPath: C:\Users\Suu\Documents\GitHub\Sinful-Virtue\Sinful Virtue\Library\PackageCache\com.unity.2d.pixel-perfect@3.0.2
       assetPath: Packages/com.unity.2d.pixel-perfect
       name: com.unity.2d.pixel-perfect
       displayName: 2D Pixel Perfect
@@ -164,7 +112,7 @@ m_PackageAssets:
         email: 
         url: 
       category: 
-      type: 
+      type: tool
       description: 'The 2D Pixel Perfect package contains the Pixel Perfect Camera
         component which ensures your pixel art remains crisp and clear at different
         resolutions, and stable in motion.
@@ -180,19 +128,7 @@ m_PackageAssets:
       errors: []
       versions:
         all:
-        - 1.0.0-preview
-        - 1.0.1-preview
-        - 2.0.2
-        - 2.0.3
-        - 2.0.4
-        - 2.1.0
-        - 3.0.0
-        - 3.0.1
         - 3.0.2
-        - 4.0.0
-        - 4.0.1
-        - 5.0.0-pre.1
-        - 5.0.0-pre.2
         compatible:
         - 3.0.2
         verified: 3.0.2
@@ -215,7 +151,7 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637225599840000000
+      datePublishedTicks: 0
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -228,7 +164,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 3.1.6
       source: 1
-      resolvedPath: C:\Users\gamma\Documents\GitHub\Sinful-Virtue\Sinful Virtue\Library\PackageCache\com.unity.2d.psdimporter@3.1.6
+      resolvedPath: C:\Users\Suu\Documents\GitHub\Sinful-Virtue\Sinful Virtue\Library\PackageCache\com.unity.2d.psdimporter@3.1.6
       assetPath: Packages/com.unity.2d.psdimporter
       name: com.unity.2d.psdimporter
       displayName: 2D PSD Importer
@@ -246,41 +182,10 @@ m_PackageAssets:
       errors: []
       versions:
         all:
-        - 1.0.0-preview.1
-        - 1.0.0-preview.2
-        - 1.0.0-preview.3
-        - 1.0.0-preview.4
-        - 1.1.0-preview.1
-        - 1.1.0-preview.3
-        - 1.2.0-preview.1
-        - 1.2.0-preview.3
-        - 1.2.0-preview.4
-        - 2.0.2
-        - 2.0.3
-        - 2.0.4
-        - 2.0.5
-        - 2.0.7
-        - 2.1.0
-        - 2.1.3
-        - 2.1.4
-        - 2.1.5
-        - 2.1.6
-        - 3.0.0
-        - 3.1.1
-        - 3.1.3
-        - 3.1.4
-        - 3.1.5
         - 3.1.6
-        - 3.1.7
-        - 4.0.0
-        - 4.0.1
-        - 4.0.2
-        - 5.0.0-pre.1
-        - 5.0.0-pre.2
         compatible:
         - 3.1.6
-        - 3.1.7
-        verified: 3.1.7
+        verified: 3.1.6
       dependencies:
       - name: com.unity.2d.common
         version: 3.0.1
@@ -325,7 +230,7 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637366434350000000
+      datePublishedTicks: 0
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -389,7 +294,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 4.1.4
       source: 1
-      resolvedPath: C:\Users\gamma\Documents\GitHub\Sinful-Virtue\Sinful Virtue\Library\PackageCache\com.unity.2d.spriteshape@4.1.4
+      resolvedPath: C:\Users\Suu\Documents\GitHub\Sinful-Virtue\Sinful Virtue\Library\PackageCache\com.unity.2d.spriteshape@4.1.4
       assetPath: Packages/com.unity.2d.spriteshape
       name: com.unity.2d.spriteshape
       displayName: 2D SpriteShape
@@ -407,54 +312,10 @@ m_PackageAssets:
       errors: []
       versions:
         all:
-        - 1.0.10-preview.2
-        - 1.0.11-preview
-        - 1.0.12-preview
-        - 1.0.12-preview.1
-        - 1.0.14-preview.2
-        - 2.0.0-preview.4
-        - 2.0.0-preview.5
-        - 2.0.0-preview.7
-        - 2.0.0-preview.8
-        - 2.0.0-preview.9
-        - 2.1.0-preview.2
-        - 2.1.0-preview.6
-        - 2.1.0-preview.7
-        - 2.1.0-preview.10
-        - 2.1.0-preview.11
-        - 3.0.1
-        - 3.0.2
-        - 3.0.4
-        - 3.0.5
-        - 3.0.6
-        - 3.0.7
-        - 3.0.8
-        - 3.0.9
-        - 3.0.10
-        - 3.0.11
-        - 3.0.12
-        - 3.0.13
-        - 3.0.14
-        - 4.0.0
-        - 4.0.1
-        - 4.0.2
-        - 4.0.3
-        - 4.1.0
-        - 4.1.1
-        - 4.1.2
-        - 4.1.3
         - 4.1.4
-        - 4.1.5
-        - 5.0.0
-        - 5.0.1
-        - 5.0.2
-        - 5.1.0
-        - 6.0.0-pre.1
-        - 6.0.0-pre.2
         compatible:
         - 4.1.4
-        - 4.1.5
-        verified: 4.1.5
+        verified: 4.1.4
       dependencies:
       - name: com.unity.mathematics
         version: 1.1.0
@@ -504,7 +365,7 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637366433170000000
+      datePublishedTicks: 0
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -562,12 +423,128 @@ m_PackageAssets:
         url: 
         revision: 
         path: 
+    - packageId: com.unity.ads@3.5.0
+      testable: 0
+      isDirectDependency: 1
+      version: 3.5.0
+      source: 1
+      resolvedPath: C:\Users\Suu\Documents\GitHub\Sinful-Virtue\Sinful Virtue\Library\PackageCache\com.unity.ads@3.5.0
+      assetPath: Packages/com.unity.ads
+      name: com.unity.ads
+      displayName: Advertisement
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: 
+      description: Unity Ads is a video ad network for iOS and Android that allows
+        you to quickly and effectively monetize your games.
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 3.5.0
+        compatible:
+        - 3.5.0
+        verified: 3.5.0
+      dependencies:
+      - name: com.unity.ugui
+        version: 1.0.0
+      resolvedDependencies:
+      - name: com.unity.ugui
+        version: 1.0.0
+      - name: com.unity.modules.ui
+        version: 1.0.0
+      - name: com.unity.modules.imgui
+        version: 1.0.0
+      keywords:
+      - ads
+      - unity
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 0
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: https://github.cds.internal.unity3d.com/unity/com.unity.ads.git
+        revision: 1381cd092159b0c7fef7b2dafa7796ebf313e37c
+        path: 
+    - packageId: com.unity.analytics@3.5.3
+      testable: 0
+      isDirectDependency: 1
+      version: 3.5.3
+      source: 1
+      resolvedPath: C:\Users\Suu\Documents\GitHub\Sinful-Virtue\Sinful Virtue\Library\PackageCache\com.unity.analytics@3.5.3
+      assetPath: Packages/com.unity.analytics
+      name: com.unity.analytics
+      displayName: Analytics Library
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: 
+      description: The Unity Analytics Library contains the Analytics Event Tracker
+        component, the Data Privacy plug-in, and the Standard Events API.
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 3.5.3
+        compatible:
+        - 3.5.3
+        verified: 3.5.3
+      dependencies:
+      - name: com.unity.ugui
+        version: 1.0.0
+      resolvedDependencies:
+      - name: com.unity.ugui
+        version: 1.0.0
+      - name: com.unity.modules.ui
+        version: 1.0.0
+      - name: com.unity.modules.imgui
+        version: 1.0.0
+      keywords:
+      - analytics
+      - unity
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 0
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: https://github.cds.internal.unity3d.com/unity/com.unity.analytics.git
+        revision: 02d361e53eda59ceb7d02ba9bd15ff55a093ad83
+        path: 
     - packageId: com.unity.cinemachine@2.6.3
       testable: 0
       isDirectDependency: 1
       version: 2.6.3
       source: 1
-      resolvedPath: C:\Users\gamma\Documents\GitHub\Sinful-Virtue\Sinful Virtue\Library\PackageCache\com.unity.cinemachine@2.6.3
+      resolvedPath: C:\Users\Suu\Documents\GitHub\Sinful-Virtue\Sinful Virtue\Library\PackageCache\com.unity.cinemachine@2.6.3
       assetPath: Packages/com.unity.cinemachine
       name: com.unity.cinemachine
       displayName: Cinemachine
@@ -684,7 +661,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.3.9
       source: 1
-      resolvedPath: C:\Users\gamma\Documents\GitHub\Sinful-Virtue\Sinful Virtue\Library\PackageCache\com.unity.collab-proxy@1.3.9
+      resolvedPath: C:\Users\Suu\Documents\GitHub\Sinful-Virtue\Sinful Virtue\Library\PackageCache\com.unity.collab-proxy@1.3.9
       assetPath: Packages/com.unity.collab-proxy
       name: com.unity.collab-proxy
       displayName: Unity Collaborate
@@ -701,45 +678,9 @@ m_PackageAssets:
       errors: []
       versions:
         all:
-        - 1.2.3-preview
-        - 1.2.4-preview
-        - 1.2.6
-        - 1.2.7
-        - 1.2.9
-        - 1.2.11
-        - 1.2.15
-        - 1.2.16
-        - 1.2.17-preview.3
-        - 1.3.2
-        - 1.3.3
-        - 1.3.4
-        - 1.3.5
-        - 1.3.6
-        - 1.3.7
-        - 1.3.8
         - 1.3.9
-        - 2.0.0-preview.6
-        - 2.0.0-preview.8
-        - 2.0.0-preview.15
-        - 2.0.0-preview.17
-        - 2.0.0-preview.20
-        - 2.0.0-preview.21
-        - 2.0.0-preview.22
-        - 2.1.0-preview.3
-        - 2.1.0-preview.5
-        - 2.1.0-preview.6
         compatible:
         - 1.3.9
-        - 2.0.0-preview.6
-        - 2.0.0-preview.8
-        - 2.0.0-preview.15
-        - 2.0.0-preview.17
-        - 2.0.0-preview.20
-        - 2.0.0-preview.21
-        - 2.0.0-preview.22
-        - 2.1.0-preview.3
-        - 2.1.0-preview.5
-        - 2.1.0-preview.6
         verified: 1.3.9
       dependencies: []
       resolvedDependencies: []
@@ -766,7 +707,7 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637314349270000000
+      datePublishedTicks: 0
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -779,7 +720,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.2.1
       source: 1
-      resolvedPath: C:\Users\gamma\Documents\GitHub\Sinful-Virtue\Sinful Virtue\Library\PackageCache\com.unity.ide.rider@1.2.1
+      resolvedPath: C:\Users\Suu\Documents\GitHub\Sinful-Virtue\Sinful Virtue\Library\PackageCache\com.unity.ide.rider@1.2.1
       assetPath: Packages/com.unity.ide.rider
       name: com.unity.ide.rider
       displayName: JetBrains Rider Editor
@@ -796,49 +737,9 @@ m_PackageAssets:
       errors: []
       versions:
         all:
-        - 1.0.2
-        - 1.0.6
-        - 1.0.8
-        - 1.1.0
-        - 1.1.1
-        - 1.1.2-preview
-        - 1.1.2-preview.2
-        - 1.1.3-preview.1
-        - 1.1.4-preview
-        - 1.1.4
-        - 1.2.0-preview
         - 1.2.1
-        - 2.0.0-preview
-        - 2.0.1
-        - 2.0.2
-        - 2.0.3
-        - 2.0.5
-        - 2.0.7
-        - 3.0.1
-        - 3.0.2
-        - 3.0.3
         compatible:
-        - 1.0.2
-        - 1.0.6
-        - 1.0.8
-        - 1.1.0
-        - 1.1.1
-        - 1.1.2-preview
-        - 1.1.2-preview.2
-        - 1.1.3-preview.1
-        - 1.1.4-preview
-        - 1.1.4
-        - 1.2.0-preview
         - 1.2.1
-        - 2.0.0-preview
-        - 2.0.1
-        - 2.0.2
-        - 2.0.3
-        - 2.0.5
-        - 2.0.7
-        - 3.0.1
-        - 3.0.2
-        - 3.0.3
         verified: 1.2.1
       dependencies:
       - name: com.unity.test-framework
@@ -865,20 +766,20 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637123753810000000
+      datePublishedTicks: 0
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: git@github.cds.internal.unity3d.com:unity/com.unity.ide.rider.git
-        revision: 009bcadf1eb16d9bbf3d00bcf6ccdde2162ce0cb
+        revision: 038f7161a30add43d98b31fd686ade12ffb96adb
         path: 
     - packageId: com.unity.ide.visualstudio@2.0.3
       testable: 0
       isDirectDependency: 1
       version: 2.0.3
       source: 1
-      resolvedPath: C:\Users\gamma\Documents\GitHub\Sinful-Virtue\Sinful Virtue\Library\PackageCache\com.unity.ide.visualstudio@2.0.3
+      resolvedPath: C:\Users\Suu\Documents\GitHub\Sinful-Virtue\Sinful Virtue\Library\PackageCache\com.unity.ide.visualstudio@2.0.3
       assetPath: Packages/com.unity.ide.visualstudio
       name: com.unity.ide.visualstudio
       displayName: Visual Studio Editor
@@ -895,30 +796,10 @@ m_PackageAssets:
       errors: []
       versions:
         all:
-        - 1.0.2
-        - 1.0.3
-        - 1.0.4
-        - 1.0.9
-        - 1.0.10
-        - 1.0.11
-        - 2.0.0
-        - 2.0.1
-        - 2.0.2
         - 2.0.3
-        - 2.0.5
         compatible:
-        - 1.0.2
-        - 1.0.3
-        - 1.0.4
-        - 1.0.9
-        - 1.0.10
-        - 1.0.11
-        - 2.0.0
-        - 2.0.1
-        - 2.0.2
         - 2.0.3
-        - 2.0.5
-        verified: 2.0.5
+        verified: 2.0.3
       dependencies: []
       resolvedDependencies: []
       keywords: []
@@ -934,7 +815,7 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637359495930000000
+      datePublishedTicks: 0
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -947,7 +828,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.2.3
       source: 1
-      resolvedPath: C:\Users\gamma\Documents\GitHub\Sinful-Virtue\Sinful Virtue\Library\PackageCache\com.unity.ide.vscode@1.2.3
+      resolvedPath: C:\Users\Suu\Documents\GitHub\Sinful-Virtue\Sinful Virtue\Library\PackageCache\com.unity.ide.vscode@1.2.3
       assetPath: Packages/com.unity.ide.vscode
       name: com.unity.ide.vscode
       displayName: Visual Studio Code Editor
@@ -964,28 +845,8 @@ m_PackageAssets:
       errors: []
       versions:
         all:
-        - 1.0.2
-        - 1.0.3
-        - 1.0.7
-        - 1.1.0
-        - 1.1.2
-        - 1.1.3
-        - 1.1.4
-        - 1.2.0
-        - 1.2.1
-        - 1.2.2
         - 1.2.3
         compatible:
-        - 1.0.2
-        - 1.0.3
-        - 1.0.7
-        - 1.1.0
-        - 1.1.2
-        - 1.1.3
-        - 1.1.4
-        - 1.2.0
-        - 1.2.1
-        - 1.2.2
         - 1.2.3
         verified: 1.2.3
       dependencies: []
@@ -1003,20 +864,107 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637394922300000000
+      datePublishedTicks: 0
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.vscode.git
-        revision: b5ec9b38109e52b1b26597d521e4df75e042ebb9
+        revision: 547f63839bdc87e0aed2c9e0d84f8f6336a83ea3
+        path: 
+    - packageId: com.unity.purchasing@2.1.1
+      testable: 0
+      isDirectDependency: 1
+      version: 2.1.1
+      source: 1
+      resolvedPath: C:\Users\Suu\Documents\GitHub\Sinful-Virtue\Sinful Virtue\Library\PackageCache\com.unity.purchasing@2.1.1
+      assetPath: Packages/com.unity.purchasing
+      name: com.unity.purchasing
+      displayName: In App Purchasing
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: 
+      description: 'Unity IAP supports the iOS, Mac, tvOS, Google Play, Facebook
+        Gameroom, Windows, Amazon, and Samsung Galaxy app stores. Additionally, it
+        can work in tandem with the Unity Distribution Portal in order to synchronize
+        catalogs and transactions with even more stores.
+
+
+        With Unity IAP,
+        setting up in-app purchases for your game across multiple app stores has
+        never been easier.
+
+
+        Use one common API to access all stores for
+        free. With just a few lines of code, you can fully understand and optimize
+        your in-game economy.
+
+
+        Unity IAP automatically couples with Unity
+        Analytics enabling you to monitor and act on trends in your revenue and purchase
+        data across multiple platforms.
+
+
+        Includes client-side receipt validation
+        for Apple App Store and Google Play.
+
+
+        After installing this package,
+        please make sure to open the Services Window and enable In-App Purchasing
+        to use its features. In the In-App Purchasing settings, please make sure
+        to import the Asset Store plugin if you have not already done so. This is
+        necessary to include all of the features.'
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 2.1.1
+        compatible:
+        - 2.1.1
+        verified: 2.1.1
+      dependencies:
+      - name: com.unity.ugui
+        version: 1.0.0
+      resolvedDependencies:
+      - name: com.unity.ugui
+        version: 1.0.0
+      - name: com.unity.modules.ui
+        version: 1.0.0
+      - name: com.unity.modules.imgui
+        version: 1.0.0
+      keywords:
+      - purchasing
+      - iap
+      - unity
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 0
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: https://github.cds.internal.unity3d.com/unity/com.unity.purchasing.git
+        revision: ab79b0c58006f61970a2136b4cba9ca76fde0edc
         path: 
     - packageId: com.unity.render-pipelines.universal@8.2.0
       testable: 0
       isDirectDependency: 1
       version: 8.2.0
       source: 1
-      resolvedPath: C:\Users\gamma\Documents\GitHub\Sinful-Virtue\Sinful Virtue\Library\PackageCache\com.unity.render-pipelines.universal@8.2.0
+      resolvedPath: C:\Users\Suu\Documents\GitHub\Sinful-Virtue\Sinful Virtue\Library\PackageCache\com.unity.render-pipelines.universal@8.2.0
       assetPath: Packages/com.unity.render-pipelines.universal
       name: com.unity.render-pipelines.universal
       displayName: Universal RP
@@ -1034,42 +982,9 @@ m_PackageAssets:
       errors: []
       versions:
         all:
-        - 7.0.0
-        - 7.0.1
-        - 7.1.1
-        - 7.1.2
-        - 7.1.5
-        - 7.1.6
-        - 7.1.7
-        - 7.1.8
-        - 7.2.0
-        - 7.2.1
-        - 7.3.1
-        - 7.4.1
-        - 7.4.2
-        - 7.4.3
-        - 7.5.1
-        - 7.5.2
-        - 8.0.1
-        - 8.1.0
         - 8.2.0
-        - 8.3.1
-        - 9.0.0-preview.14
-        - 9.0.0-preview.35
-        - 9.0.0-preview.55
-        - 9.0.0-preview.72
-        - 10.0.0-preview.26
-        - 10.1.0
-        - 10.2.0
-        - 10.2.1
-        - 10.2.2
-        - 10.3.1
         compatible:
         - 8.2.0
-        - 9.0.0-preview.14
-        - 9.0.0-preview.35
-        - 9.0.0-preview.55
-        - 9.0.0-preview.72
         verified: 8.2.0
       dependencies:
       - name: com.unity.render-pipelines.core
@@ -1108,12 +1023,12 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637302625500000000
+      datePublishedTicks: 0
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
-        url: git+https://github.com/Unity-Technologies/Graphics.git
+        url: https://github.com/Unity-Technologies/Graphics.git
         revision: 4ad03e7975af24c8e60c974edb24c696e74e39b3
         path: 
     - packageId: com.unity.test-framework@1.1.18
@@ -1121,7 +1036,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.1.18
       source: 1
-      resolvedPath: C:\Users\gamma\Documents\GitHub\Sinful-Virtue\Sinful Virtue\Library\PackageCache\com.unity.test-framework@1.1.18
+      resolvedPath: C:\Users\Suu\Documents\GitHub\Sinful-Virtue\Sinful Virtue\Library\PackageCache\com.unity.test-framework@1.1.18
       assetPath: Packages/com.unity.test-framework
       name: com.unity.test-framework
       displayName: Test Framework
@@ -1136,39 +1051,10 @@ m_PackageAssets:
       errors: []
       versions:
         all:
-        - 0.0.4-preview
-        - 0.0.29-preview
-        - 1.0.0
-        - 1.0.7
-        - 1.0.9
-        - 1.0.11
-        - 1.0.12
-        - 1.0.13
-        - 1.0.14
-        - 1.0.16
-        - 1.0.17
-        - 1.0.18
-        - 1.1.0
-        - 1.1.1
-        - 1.1.2
-        - 1.1.3
-        - 1.1.5
-        - 1.1.8
-        - 1.1.9
-        - 1.1.11
-        - 1.1.13
-        - 1.1.14
-        - 1.1.16
         - 1.1.18
-        - 1.1.19
-        - 1.1.20
-        - 1.1.22
         compatible:
         - 1.1.18
-        - 1.1.19
-        - 1.1.20
-        - 1.1.22
-        verified: 1.1.22
+        verified: 1.1.18
       dependencies:
       - name: com.unity.ext.nunit
         version: 1.0.0
@@ -1198,12 +1084,12 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637378481950000000
+      datePublishedTicks: 0
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
-        url: git+https://github.com/Unity-Technologies/com.unity.test-framework.git
+        url: https://github.com/Unity-Technologies/com.unity.test-framework.git
         revision: 14025b364215f4465cbe1beb7a81e486b2687ced
         path: 
     - packageId: com.unity.textmeshpro@3.0.3
@@ -1211,7 +1097,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 3.0.3
       source: 1
-      resolvedPath: C:\Users\gamma\Documents\GitHub\Sinful-Virtue\Sinful Virtue\Library\PackageCache\com.unity.textmeshpro@3.0.3
+      resolvedPath: C:\Users\Suu\Documents\GitHub\Sinful-Virtue\Sinful Virtue\Library\PackageCache\com.unity.textmeshpro@3.0.3
       assetPath: Packages/com.unity.textmeshpro
       name: com.unity.textmeshpro
       displayName: TextMeshPro
@@ -1358,7 +1244,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.3.6
       source: 1
-      resolvedPath: C:\Users\gamma\Documents\GitHub\Sinful-Virtue\Sinful Virtue\Library\PackageCache\com.unity.timeline@1.3.6
+      resolvedPath: C:\Users\Suu\Documents\GitHub\Sinful-Virtue\Sinful Virtue\Library\PackageCache\com.unity.timeline@1.3.6
       assetPath: Packages/com.unity.timeline
       name: com.unity.timeline
       displayName: Timeline
@@ -1570,6 +1456,63 @@ m_PackageAssets:
         type: 
         url: 
         revision: 
+        path: 
+    - packageId: com.unity.xr.legacyinputhelpers@2.1.4
+      testable: 0
+      isDirectDependency: 1
+      version: 2.1.4
+      source: 1
+      resolvedPath: C:\Users\Suu\Documents\GitHub\Sinful-Virtue\Sinful Virtue\Library\PackageCache\com.unity.xr.legacyinputhelpers@2.1.4
+      assetPath: Packages/com.unity.xr.legacyinputhelpers
+      name: com.unity.xr.legacyinputhelpers
+      displayName: XR Legacy Input Helpers
+      author:
+        name: 
+        email: 
+        url: 
+      category: XR
+      type: 
+      description: This package includes the tracked pose driver for the legacy input
+        system, the XR Bindings Seeding Tool and 3Dof Arm Model support for the Tracked
+        Pose Driver. The Tracked Pose Driver is a monobehavior that enables GameObjects
+        to track input devices, the XR Bindings Seeding Tool adds a menu item under
+        the 'Assets' menu which populates the Input Asset with Unity's crossplatform
+        Input Bindings
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 2.1.4
+        compatible:
+        - 2.1.4
+        verified: 2.1.4
+      dependencies: []
+      resolvedDependencies: []
+      keywords:
+      - TPD
+      - Tracked Pose Driver
+      - XR
+      - Input
+      - Helpers
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 0
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: https://github.cds.internal.unity3d.com/unity/com.unity.xr.legacyinputhelpers.git
+        revision: 658d345b94c9a7d015f00d946ef160193439a203
         path: 
     - packageId: com.unity.modules.ai@1.0.0
       testable: 0
@@ -3318,7 +3261,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.0
       source: 1
-      resolvedPath: C:\Users\gamma\Documents\GitHub\Sinful-Virtue\Sinful Virtue\Library\PackageCache\com.unity.ext.nunit@1.0.0
+      resolvedPath: C:\Users\Suu\Documents\GitHub\Sinful-Virtue\Sinful Virtue\Library\PackageCache\com.unity.ext.nunit@1.0.0
       assetPath: Packages/com.unity.ext.nunit
       name: com.unity.ext.nunit
       displayName: Custom NUnit
@@ -3334,20 +3277,10 @@ m_PackageAssets:
       errors: []
       versions:
         all:
-        - 0.1.5-preview
-        - 0.1.6-preview
-        - 0.1.9-preview
         - 1.0.0
-        - 1.0.5
-        - 1.0.6
         compatible:
-        - 0.1.5-preview
-        - 0.1.6-preview
-        - 0.1.9-preview
         - 1.0.0
-        - 1.0.5
-        - 1.0.6
-        verified: 1.0.6
+        verified: 1.0.0
       dependencies: []
       resolvedDependencies: []
       keywords:
@@ -3366,7 +3299,7 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 636898893830000000
+      datePublishedTicks: 0
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -3379,7 +3312,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 8.2.0
       source: 1
-      resolvedPath: C:\Users\gamma\Documents\GitHub\Sinful-Virtue\Sinful Virtue\Library\PackageCache\com.unity.render-pipelines.core@8.2.0
+      resolvedPath: C:\Users\Suu\Documents\GitHub\Sinful-Virtue\Sinful Virtue\Library\PackageCache\com.unity.render-pipelines.core@8.2.0
       assetPath: Packages/com.unity.render-pipelines.core
       name: com.unity.render-pipelines.core
       displayName: Core RP Library
@@ -3400,96 +3333,9 @@ m_PackageAssets:
       errors: []
       versions:
         all:
-        - 0.1.21
-        - 0.1.27
-        - 0.1.28
-        - 1.0.0-beta
-        - 1.0.1-beta
-        - 1.1.1-preview
-        - 1.1.2-preview
-        - 1.1.4-preview
-        - 1.1.5-preview
-        - 1.1.8-preview
-        - 1.1.10-preview
-        - 1.1.11-preview
-        - 2.0.1-preview
-        - 2.0.3-preview
-        - 2.0.4-preview
-        - 2.0.4-preview.1
-        - 2.0.5-preview
-        - 2.0.6-preview
-        - 2.0.7-preview
-        - 2.0.8-preview
-        - 3.0.0-preview
-        - 3.1.0-preview
-        - 3.3.0-preview
-        - 4.0.0-preview
-        - 4.0.1-preview
-        - 4.1.0-preview
-        - 4.2.0-preview
-        - 4.3.0-preview
-        - 4.6.0-preview
-        - 4.8.0-preview
-        - 4.9.0-preview
-        - 4.10.0-preview
-        - 5.0.0-preview
-        - 5.1.0
-        - 5.2.0
-        - 5.2.1
-        - 5.2.2
-        - 5.2.3
-        - 5.3.1
-        - 5.6.1
-        - 5.7.2
-        - 5.8.2
-        - 5.9.0
-        - 5.10.0
-        - 5.13.0
-        - 5.16.1
-        - 6.5.2
-        - 6.5.3
-        - 6.7.1
-        - 6.9.0
-        - 6.9.1
-        - 6.9.2
-        - 7.0.0
-        - 7.0.1
-        - 7.1.1
-        - 7.1.2
-        - 7.1.5
-        - 7.1.6
-        - 7.1.7
-        - 7.1.8
-        - 7.2.0
-        - 7.2.1
-        - 7.3.1
-        - 7.4.1
-        - 7.4.2
-        - 7.4.3
-        - 7.5.1
-        - 7.5.2
-        - 8.0.1
-        - 8.1.0
         - 8.2.0
-        - 8.3.1
-        - 9.0.0-preview.13
-        - 9.0.0-preview.35
-        - 9.0.0-preview.38
-        - 9.0.0-preview.60
-        - 9.0.0-preview.77
-        - 10.0.0-preview.30
-        - 10.1.0
-        - 10.2.0
-        - 10.2.1
-        - 10.2.2
-        - 10.3.1
         compatible:
         - 8.2.0
-        - 9.0.0-preview.13
-        - 9.0.0-preview.35
-        - 9.0.0-preview.38
-        - 9.0.0-preview.60
-        - 9.0.0-preview.77
         verified: 8.2.0
       dependencies:
       - name: com.unity.ugui
@@ -3514,12 +3360,12 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637302622600000000
+      datePublishedTicks: 0
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
-        url: git+https://github.com/Unity-Technologies/Graphics.git
+        url: https://github.com/Unity-Technologies/Graphics.git
         revision: 4ad03e7975af24c8e60c974edb24c696e74e39b3
         path: 
     - packageId: com.unity.shadergraph@8.2.0
@@ -3527,7 +3373,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 8.2.0
       source: 1
-      resolvedPath: C:\Users\gamma\Documents\GitHub\Sinful-Virtue\Sinful Virtue\Library\PackageCache\com.unity.shadergraph@8.2.0
+      resolvedPath: C:\Users\Suu\Documents\GitHub\Sinful-Virtue\Sinful Virtue\Library\PackageCache\com.unity.shadergraph@8.2.0
       assetPath: Packages/com.unity.shadergraph
       name: com.unity.shadergraph
       displayName: Shader Graph
@@ -3546,94 +3392,9 @@ m_PackageAssets:
       errors: []
       versions:
         all:
-        - 0.1.8
-        - 0.1.9
-        - 0.1.17
-        - 1.0.0-beta
-        - 1.1.1-preview
-        - 1.1.2-preview
-        - 1.1.3-preview
-        - 1.1.4-preview
-        - 1.1.5-preview
-        - 1.1.6-preview
-        - 1.1.8-preview
-        - 1.1.9-preview
-        - 2.0.1-preview
-        - 2.0.3-preview
-        - 2.0.4-preview
-        - 2.0.4-preview.1
-        - 2.0.5-preview
-        - 2.0.6-preview
-        - 2.0.7-preview
-        - 2.0.8-preview
-        - 3.0.0-preview
-        - 3.1.0-preview
-        - 3.3.0-preview
-        - 4.0.0-preview
-        - 4.0.1-preview
-        - 4.1.0-preview
-        - 4.2.0-preview
-        - 4.3.0-preview
-        - 4.6.0-preview
-        - 4.8.0-preview
-        - 4.9.0-preview
-        - 4.10.0-preview
-        - 5.0.0-preview
-        - 5.1.0
-        - 5.2.0
-        - 5.2.1
-        - 5.2.2
-        - 5.2.3
-        - 5.3.1
-        - 5.6.1
-        - 5.7.2
-        - 5.8.2
-        - 5.9.0
-        - 5.10.0
-        - 5.13.0
-        - 5.16.1
-        - 6.5.2
-        - 6.5.3
-        - 6.7.1
-        - 6.9.0
-        - 6.9.1
-        - 6.9.2
-        - 7.0.0
-        - 7.0.1
-        - 7.1.1
-        - 7.1.2
-        - 7.1.5
-        - 7.1.6
-        - 7.1.7
-        - 7.1.8
-        - 7.2.0
-        - 7.2.1
-        - 7.3.1
-        - 7.4.1
-        - 7.4.2
-        - 7.4.3
-        - 7.5.1
-        - 7.5.2
-        - 8.0.1
-        - 8.1.0
         - 8.2.0
-        - 8.3.1
-        - 9.0.0-preview.14
-        - 9.0.0-preview.34
-        - 9.0.0-preview.55
-        - 9.0.0-preview.72
-        - 10.0.0-preview.27
-        - 10.1.0
-        - 10.2.0
-        - 10.2.1
-        - 10.2.2
-        - 10.3.1
         compatible:
         - 8.2.0
-        - 9.0.0-preview.14
-        - 9.0.0-preview.34
-        - 9.0.0-preview.55
-        - 9.0.0-preview.72
         verified: 8.2.0
       dependencies:
       - name: com.unity.render-pipelines.core
@@ -3664,12 +3425,12 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637302623400000000
+      datePublishedTicks: 0
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
-        url: git+https://github.com/Unity-Technologies/Graphics.git
+        url: https://github.com/Unity-Technologies/Graphics.git
         revision: 4ad03e7975af24c8e60c974edb24c696e74e39b3
         path: 
     - packageId: com.unity.mathematics@1.1.0
@@ -3677,7 +3438,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.1.0
       source: 1
-      resolvedPath: C:\Users\gamma\Documents\GitHub\Sinful-Virtue\Sinful Virtue\Library\PackageCache\com.unity.mathematics@1.1.0
+      resolvedPath: C:\Users\Suu\Documents\GitHub\Sinful-Virtue\Sinful Virtue\Library\PackageCache\com.unity.mathematics@1.1.0
       assetPath: Packages/com.unity.mathematics
       name: com.unity.mathematics
       displayName: Mathematics
@@ -3693,33 +3454,9 @@ m_PackageAssets:
       errors: []
       versions:
         all:
-        - 0.0.12-preview.2
-        - 0.0.12-preview.5
-        - 0.0.12-preview.8
-        - 0.0.12-preview.10
-        - 0.0.12-preview.11
-        - 0.0.12-preview.13
-        - 0.0.12-preview.17
-        - 0.0.12-preview.19
-        - 0.0.12-preview.20
-        - 1.0.0-preview.1
-        - 1.0.1
-        - 1.1.0-preview.1
         - 1.1.0
         - 1.2.1
         compatible:
-        - 0.0.12-preview.2
-        - 0.0.12-preview.5
-        - 0.0.12-preview.8
-        - 0.0.12-preview.10
-        - 0.0.12-preview.11
-        - 0.0.12-preview.13
-        - 0.0.12-preview.17
-        - 0.0.12-preview.19
-        - 0.0.12-preview.20
-        - 1.0.0-preview.1
-        - 1.0.1
-        - 1.1.0-preview.1
         - 1.1.0
         - 1.2.1
         verified: 1.2.1
@@ -3739,7 +3476,7 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 636984649280000000
+      datePublishedTicks: 0
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -3752,7 +3489,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 3.0.1
       source: 1
-      resolvedPath: C:\Users\gamma\Documents\GitHub\Sinful-Virtue\Sinful Virtue\Library\PackageCache\com.unity.2d.common@3.0.1
+      resolvedPath: C:\Users\Suu\Documents\GitHub\Sinful-Virtue\Sinful Virtue\Library\PackageCache\com.unity.2d.common@3.0.1
       assetPath: Packages/com.unity.2d.common
       name: com.unity.2d.common
       displayName: 2D Common
@@ -3768,24 +3505,7 @@ m_PackageAssets:
       errors: []
       versions:
         all:
-        - 1.0.9-preview.1
-        - 1.0.9-preview.2
-        - 1.0.10-preview
-        - 1.0.11-preview.1
-        - 1.1.0-preview.1
-        - 1.1.0-preview.2
-        - 1.2.0-preview.1
-        - 2.0.1
-        - 2.0.2
-        - 2.1.0
-        - 3.0.0
         - 3.0.1
-        - 4.0.0
-        - 4.0.1
-        - 4.0.2
-        - 4.0.3
-        - 5.0.0-pre.1
-        - 5.0.0-pre.2
         compatible:
         - 3.0.1
         verified: 3.0.1
@@ -3821,7 +3541,7 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637256005260000000
+      datePublishedTicks: 0
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -3834,7 +3554,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 3.0.2
       source: 1
-      resolvedPath: C:\Users\gamma\Documents\GitHub\Sinful-Virtue\Sinful Virtue\Library\PackageCache\com.unity.2d.path@3.0.2
+      resolvedPath: C:\Users\Suu\Documents\GitHub\Sinful-Virtue\Sinful Virtue\Library\PackageCache\com.unity.2d.path@3.0.2
       assetPath: Packages/com.unity.2d.path
       name: com.unity.2d.path
       displayName: 2D Path
@@ -3850,22 +3570,7 @@ m_PackageAssets:
       errors: []
       versions:
         all:
-        - 1.0.0-preview.1
-        - 1.0.0-preview.4
-        - 2.0.1
-        - 2.0.2
-        - 2.0.3
-        - 2.0.4
-        - 2.0.5
-        - 2.0.6
-        - 2.1.0
-        - 3.0.0
-        - 3.0.1
         - 3.0.2
-        - 4.0.0
-        - 4.0.1
-        - 5.0.0-pre.1
-        - 5.0.0-pre.2
         compatible:
         - 3.0.2
         verified: 3.0.2
@@ -3886,7 +3591,7 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637328482940000000
+      datePublishedTicks: 0
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -3899,7 +3604,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 4.0.9
       source: 1
-      resolvedPath: C:\Users\gamma\Documents\GitHub\Sinful-Virtue\Sinful Virtue\Library\PackageCache\com.unity.searcher@4.0.9
+      resolvedPath: C:\Users\Suu\Documents\GitHub\Sinful-Virtue\Sinful Virtue\Library\PackageCache\com.unity.searcher@4.0.9
       assetPath: Packages/com.unity.searcher
       name: com.unity.searcher
       displayName: Searcher
@@ -3915,33 +3620,9 @@ m_PackageAssets:
       errors: []
       versions:
         all:
-        - 4.0.0-preview
-        - 4.0.0
-        - 4.0.7-preview
-        - 4.0.7
-        - 4.0.8-preview
         - 4.0.9
-        - 4.1.0-preview
-        - 4.1.0
-        - 4.2.0
-        - 4.3.0
-        - 4.3.1
-        - 4.6.0-preview
-        - 4.7.0-preview
         compatible:
-        - 4.0.0-preview
-        - 4.0.0
-        - 4.0.7-preview
-        - 4.0.7
-        - 4.0.8-preview
         - 4.0.9
-        - 4.1.0-preview
-        - 4.1.0
-        - 4.2.0
-        - 4.3.0
-        - 4.3.1
-        - 4.6.0-preview
-        - 4.7.0-preview
         verified: 4.0.9
       dependencies: []
       resolvedDependencies: []
@@ -3960,7 +3641,7 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637090887100000000
+      datePublishedTicks: 0
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -3970,5 +3651,5 @@ m_PackageAssets:
         path: 
   m_LocalPackages:
     m_LocalFileStatus: []
-m_ProjectPath: C:/Users/gamma/Documents/GitHub/Sinful-Virtue/Sinful Virtue/Packages
+m_ProjectPath: C:/Users/Suu/Documents/GitHub/Sinful-Virtue/Sinful Virtue/Packages
 m_EditorVersion: 2020.1.13f1 (5e24f28bfbc0)

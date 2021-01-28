@@ -580,7 +580,7 @@ GameObject:
   - component: {fileID: 409504226}
   - component: {fileID: 409504225}
   m_Layer: 5
-  m_Name: Programming&LevelDesign
+  m_Name: Assistant Programmer & Level Design
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -599,12 +599,12 @@ RectTransform:
   m_Children:
   - {fileID: 1936631693}
   m_Father: {fileID: 625223969}
-  m_RootOrder: 2
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 10, y: 156}
-  m_SizeDelta: {x: 26.349915, y: -178.42703}
+  m_AnchoredPosition: {x: 10, y: 120}
+  m_SizeDelta: {x: 26, y: -180}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &409504225
 MonoBehaviour:
@@ -626,7 +626,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: PROGRAMMING & LEVEL DESIGN
+  m_text: Assistant Programmer & Level Design
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 3cfc94d2a939544489f187eb5af06359, type: 2}
   m_sharedMaterial: {fileID: -2011898186295546345, guid: 3cfc94d2a939544489f187eb5af06359, type: 2}
@@ -1100,10 +1100,10 @@ RectTransform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
+  - {fileID: 1468661981}
+  - {fileID: 409504224}
   - {fileID: 1524312480}
   - {fileID: 1984461664}
-  - {fileID: 409504224}
-  - {fileID: 1468661981}
   - {fileID: 857875238}
   m_Father: {fileID: 872814076}
   m_RootOrder: 4
@@ -2997,7 +2997,7 @@ GameObject:
   - component: {fileID: 1468661983}
   - component: {fileID: 1468661982}
   m_Layer: 5
-  m_Name: AssistantProgrammer&UIDesign
+  m_Name: Programmer & UIDesign
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3016,12 +3016,12 @@ RectTransform:
   m_Children:
   - {fileID: 1723764492}
   m_Father: {fileID: 625223969}
-  m_RootOrder: 3
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 10, y: 93}
-  m_SizeDelta: {x: 26.349915, y: -178.42703}
+  m_AnchoredPosition: {x: 10, y: 200}
+  m_SizeDelta: {x: 26, y: -180}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1468661982
 MonoBehaviour:
@@ -3043,7 +3043,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: ASSISTANT PROGRAMMER & UI DESIGN
+  m_text: Programmer & UiDesign
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 3cfc94d2a939544489f187eb5af06359, type: 2}
   m_sharedMaterial: {fileID: -2011898186295546345, guid: 3cfc94d2a939544489f187eb5af06359, type: 2}
@@ -3132,7 +3132,7 @@ GameObject:
   - component: {fileID: 1524312482}
   - component: {fileID: 1524312481}
   m_Layer: 5
-  m_Name: SoundDesign
+  m_Name: Project Manager & Sound Design
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3151,12 +3151,12 @@ RectTransform:
   m_Children:
   - {fileID: 1412972814}
   m_Father: {fileID: 625223969}
-  m_RootOrder: 0
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 10, y: -43}
-  m_SizeDelta: {x: 26.349915, y: -178.42703}
+  m_AnchoredPosition: {x: 10, y: 38.5}
+  m_SizeDelta: {x: 26, y: -167}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1524312481
 MonoBehaviour:
@@ -3178,7 +3178,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: SOUND DESIGN
+  m_text: Project Manager & Sound Design
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 3cfc94d2a939544489f187eb5af06359, type: 2}
   m_sharedMaterial: {fileID: -2011898186295546345, guid: 3cfc94d2a939544489f187eb5af06359, type: 2}
@@ -4029,7 +4029,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -0, y: -28}
+  m_AnchoredPosition: {x: 0, y: -45}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1936631694
@@ -4376,7 +4376,7 @@ GameObject:
   - component: {fileID: 1984461666}
   - component: {fileID: 1984461665}
   m_Layer: 5
-  m_Name: ArtDesign
+  m_Name: Art Design
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4395,12 +4395,12 @@ RectTransform:
   m_Children:
   - {fileID: 711025019}
   m_Father: {fileID: 625223969}
-  m_RootOrder: 1
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 10, y: 23}
-  m_SizeDelta: {x: 26.349915, y: -178.42703}
+  m_AnchoredPosition: {x: 10, y: -23}
+  m_SizeDelta: {x: 26, y: -178}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1984461665
 MonoBehaviour:
@@ -4422,7 +4422,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: ART DESIGN
+  m_text: Art Design
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 3cfc94d2a939544489f187eb5af06359, type: 2}
   m_sharedMaterial: {fileID: -2011898186295546345, guid: 3cfc94d2a939544489f187eb5af06359, type: 2}

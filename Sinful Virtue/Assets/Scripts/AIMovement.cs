@@ -7,61 +7,44 @@ public class AIMovement : MonoBehaviour
     [SerializeField] Transform[] movePoints;
     private int destPoint;
     public Transform target;
-    NavMeshAgent agent;
+    public NavMeshAgent agent;
+    public float speed;
+    public bool activated;
+    
     void Start()
     {
+        activated = false;
         agent = GetComponent<NavMeshAgent>();
         agent.updateRotation = false;
         agent.updateUpAxis = false;
         agent.autoBraking = false;
         GotoNextPoint();
-        
     }
     void Update()
     {
+        agent.speed = speed;
+        agent.acceleration = agent.speed;
         //Quando estiver próximo do objetivo atual escolher outro ponto
         if (!agent.pathPending && agent.remainingDistance < 0.5f)
         {
-            GotoNextPoint();
+            if (activated)
+            {
+                agent.enabled = false;
+            }
+            else
+            {
+                GotoNextPoint();
+            }
         }
     }
-    IEnumerator Timer()
-    {
-        yield return new WaitForSeconds(5);
-    }
     //Escoler um ponto aleatório da lista de pontos
-    void GotoNextPoint()
+    public virtual void GotoNextPoint()
     {
         if (movePoints.Length == 0)
             return;
         destPoint = Random.Range(0, movePoints.Length);
         agent.destination = movePoints[destPoint].position;
     }
-    //Timer para o estado ativo da wrath
-   
-    //Ativação dos Sins
-    void OnTriggerEnter2D(Collider2D other)
-    {
-        if (other.gameObject.CompareTag("Light") && gameObject.CompareTag("Sloth"))
-        {
-            Debug.Log("active");
-            ActiveSloth();
-        }
-        if (other.gameObject.CompareTag("Light") && gameObject.CompareTag("Wrath"))
-        {
-            Debug.Log("active");
-            ActiveWrath();
-        }
-    }
-    void ActiveSloth()
-    {
-        agent.destination = (target.position);
-    }
-    void ActiveWrath()
-    {
-        agent.destination = (target.position);
-        agent.speed = 22.0f;
-        StartCoroutine(Timer());
-        return;
-    }
 }
+    
+    
