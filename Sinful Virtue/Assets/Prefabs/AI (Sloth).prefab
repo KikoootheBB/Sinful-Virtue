@@ -16,9 +16,9 @@ GameObject:
   - component: {fileID: 6981368730964736737}
   - component: {fileID: 6981368730964736741}
   - component: {fileID: 2369111559487612428}
-  m_Layer: 10
+  m_Layer: 8
   m_Name: AI (Sloth)
-  m_TagString: Wrath
+  m_TagString: Sloth
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

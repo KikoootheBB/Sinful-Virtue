@@ -7,7 +7,7 @@ using UnityEngine.Experimental.Rendering.Universal;
 public class Triggers : MonoBehaviour
 {
     //"Apanhar" as virtudes ou os pecados
-    private void OnTriggerEnter2D(Collider2D other)
+    public void OnTriggerEnter2D(Collider2D other)
     {
         if (other.gameObject.CompareTag("Virtue"))
         {
