@@ -1,12 +1,14 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Audio;
 
 public class SettingsMenu : MonoBehaviour
 {
-    public void SetVolume(float volume)
+    public AudioMixer mixer;
+    public void SetVolume(float sliderValue)
     {
-        Debug.Log(volume);
+        mixer.SetFloat("Volume", Mathf.Log10(sliderValue) * 20);
     }
 
     public void SetGamma(float gamma)
